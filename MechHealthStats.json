@@ -1,0 +1,8477 @@
+[
+	{
+		"Name": "ANH-1A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "ANH-1E",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "ANH-1X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "ANH-2A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "ARC-2K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "ARC-2P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "ARC-2R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "ARC-2RB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "ARC-2S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "ARC-2W",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "ARC-AGC",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "ARC-T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "AS7-BH",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "AS7-D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "AS7-K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "AS7-KR",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "AS7-P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "AS7-RS",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "ASN-101",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "ASN-21",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "ASN-25",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "ASN-26",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "ASN-27",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "ASN-DD",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "AWS-8Q",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "AWS-8R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "AWS-8T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "AWS-8V",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "AWS-9M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "AWS-PB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "BJ-1",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "BJ-1DB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "BJ-1DC",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "BJ-1X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "BJ-3",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "BJ-A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "BL-6-KNT",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "BL-6B-KNT",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "BL-7-KNT-L",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "BL-7-KNT-P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "BL-7-KNT",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "BL-P-KNT",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "BL-P-KNT2",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "BLR-1D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 36,
+			"rightTorso": 36,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 72,
+			"rightTorso": 72,
+			"leftArm": 56,
+			"rightArm": 56,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "BLR-1G",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 36,
+			"rightTorso": 36,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 72,
+			"rightTorso": 72,
+			"leftArm": 56,
+			"rightArm": 56,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "BLR-1GHE",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 36,
+			"rightTorso": 36,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 72,
+			"rightTorso": 72,
+			"leftArm": 56,
+			"rightArm": 56,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "BLR-1M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 36,
+			"rightTorso": 36,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 72,
+			"rightTorso": 72,
+			"leftArm": 56,
+			"rightArm": 56,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "BLR-1P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 36,
+			"rightTorso": 36,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 72,
+			"rightTorso": 72,
+			"leftArm": 56,
+			"rightArm": 56,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "BLR-1S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 36,
+			"rightTorso": 36,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 72,
+			"rightTorso": 72,
+			"leftArm": 56,
+			"rightArm": 56,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "BLR-3M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 36,
+			"rightTorso": 36,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 72,
+			"rightTorso": 72,
+			"leftArm": 56,
+			"rightArm": 56,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "BNC-2P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "BNC-3E",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "BNC-3M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "BNC-3P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "BNC-3S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "BNC-LM",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "BNC-SR",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "CDA-2A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 9,
+			"rightArm": 9,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "CDA-2B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 9,
+			"rightArm": 9,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "CDA-3C",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 9,
+			"rightArm": 9,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "CDA-3M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 9,
+			"rightArm": 9,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "CDA-X5",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 9,
+			"rightArm": 9,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "CGR-1A1",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "CGR-1A5",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "CGR-1P5",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "CGR-3K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "CGR-N7",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "CHP-1N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "CHP-1N2",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "CHP-1NB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "CHP-2N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "CN9-A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CN9-AH",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CN9-AL",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CN9-D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CN9-P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CN9-YLW",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CN9-YLW2",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "COM-1B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 16,
+			"leftTorso": 12,
+			"rightTorso": 12,
+			"leftArm": 8,
+			"rightArm": 8,
+			"leftLeg": 12,
+			"rightLeg": 12
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		}
+	},
+	{
+		"Name": "COM-1D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 16,
+			"leftTorso": 12,
+			"rightTorso": 12,
+			"leftArm": 8,
+			"rightArm": 8,
+			"leftLeg": 12,
+			"rightLeg": 12
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		}
+	},
+	{
+		"Name": "COM-2D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 16,
+			"leftTorso": 12,
+			"rightTorso": 12,
+			"leftArm": 8,
+			"rightArm": 8,
+			"leftLeg": 12,
+			"rightLeg": 12
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		}
+	},
+	{
+		"Name": "COM-2P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 16,
+			"leftTorso": 12,
+			"rightTorso": 12,
+			"leftArm": 8,
+			"rightArm": 8,
+			"leftLeg": 12,
+			"rightLeg": 12
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		}
+	},
+	{
+		"Name": "COM-3A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 16,
+			"leftTorso": 12,
+			"rightTorso": 12,
+			"leftArm": 8,
+			"rightArm": 8,
+			"leftLeg": 12,
+			"rightLeg": 12
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		}
+	},
+	{
+		"Name": "COM-TDK",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 16,
+			"leftTorso": 12,
+			"rightTorso": 12,
+			"leftArm": 8,
+			"rightArm": 8,
+			"leftLeg": 12,
+			"rightLeg": 12
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		}
+	},
+	{
+		"Name": "COR-PVT",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "CP-10-P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "CP-10-Q",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "CP-10-Z",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "CP-11-A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "CP-11-P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "CP-S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "CPLT-A1",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CPLT-BB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CPLT-C1",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CPLT-C1B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CPLT-C4",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CPLT-J",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CPLT-K2",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRB-20",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CRB-27",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CRB-27B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CRB-27SL",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CRB-FL",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "CRD-2R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-3D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-3K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-3L",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-3R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-4D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-4K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-4L",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-5M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-5S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CRD-CR",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CTF-0X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CTF-0XP",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CTF-1X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CTF-2P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CTF-2X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CTF-4X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "CTF-IM",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "DRG-1C",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "DRG-1G",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "DRG-1N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "DRG-5N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "DRG-FANG",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "DRG-FLAME",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "DRG-SDW",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "DV-6M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "DV-7D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "DV-FR",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "ENF-4P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "ENF-4R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "ENF-5P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "ENF-GH",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "FLE-15",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "FLE-17",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "FS9-A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "FS9-E",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "FS9-FS",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "FS9-H",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "FS9-K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "FS9-M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "FS9-S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "FS9-S1",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "GHR-4P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "GHR-5H",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "GHR-5J",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "GHR-5M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "GHR-5N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "GHR-5P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "GHR-MJ",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "GRF-1E",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "GRF-1N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "GRF-1P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "GRF-1S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "GRF-2N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "GRF-3M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "GRF-AR",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "HBK-4G",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "HBK-4H",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "HBK-4HP",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "HBK-4J",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "HBK-4P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "HBK-4SP",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "HBK-GI",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "HCT-3F",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "HCT-5S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "HCT-MA",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "HGN-732",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "HGN-732B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "HGN-733",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "HGN-733C",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "HGN-733P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "HGN-733PP",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "HGN-HM",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "HGN-RS",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "HTM-26P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "HTM-26T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "HTM-27T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "HTM-27W",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "HTM-ON",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "JM6-A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 33,
+			"rightTorso": 33,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 66,
+			"rightTorso": 66,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "JM6-DD",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 33,
+			"rightTorso": 33,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 66,
+			"rightTorso": 66,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "JM6-FB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 33,
+			"rightTorso": 33,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 66,
+			"rightTorso": 66,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "JM6-S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 33,
+			"rightTorso": 33,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 66,
+			"rightTorso": 66,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "JR7-D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 19,
+			"rightTorso": 19,
+			"leftArm": 7,
+			"rightArm": 7,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "JR7-F",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 19,
+			"rightTorso": 19,
+			"leftArm": 7,
+			"rightArm": 7,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "JR7-K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 19,
+			"rightTorso": 19,
+			"leftArm": 7,
+			"rightArm": 7,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "JR7-O",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 19,
+			"rightTorso": 19,
+			"leftArm": 7,
+			"rightArm": 7,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "JR7-P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 26,
+			"leftTorso": 19,
+			"rightTorso": 19,
+			"leftArm": 7,
+			"rightArm": 7,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 52,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "JVN-10F",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "JVN-10N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "JVN-10P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "JVN-HT",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "KGC-000",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "KGC-0000",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "KGC-000B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "KGC-CAR",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "KGC-KJ",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "KTO-18",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "KTO-18P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "KTO-19",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "KTO-19B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "KTO-20",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "KTO-GB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "LCT-1E",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "LCT-1M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "LCT-1S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "LCT-1V",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "LCT-3S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "LCT-3V",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "LCT-PB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 12,
+			"leftTorso": 10,
+			"rightTorso": 10,
+			"leftArm": 6,
+			"rightArm": 6,
+			"leftLeg": 8,
+			"rightLeg": 8
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		}
+	},
+	{
+		"Name": "MAD-2R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "MAD-3D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "MAD-3L",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "MAD-3M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "MAD-3R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "MAD-4A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "MAD-5A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 62,
+			"leftTorso": 42,
+			"rightTorso": 42,
+			"leftArm": 34,
+			"rightArm": 34,
+			"leftLeg": 42,
+			"rightLeg": 42
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 124,
+			"leftTorso": 84,
+			"rightTorso": 84,
+			"leftArm": 68,
+			"rightArm": 68,
+			"leftLeg": 84,
+			"rightLeg": 84
+		}
+	},
+	{
+		"Name": "MAD-5D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "MAD-BH",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "MAD-BH2",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "MAL-1P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "MAL-1R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "MAL-2P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "MAL-KO",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "MAL-MX90",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 58,
+			"leftTorso": 38,
+			"rightTorso": 38,
+			"leftArm": 30,
+			"rightArm": 30,
+			"leftLeg": 38,
+			"rightLeg": 38
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 116,
+			"leftTorso": 76,
+			"rightTorso": 76,
+			"leftArm": 60,
+			"rightArm": 60,
+			"leftLeg": 76,
+			"rightLeg": 76
+		}
+	},
+	{
+		"Name": "NSR-9J",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 60,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 40,
+			"rightLeg": 40
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 120,
+			"leftTorso": 80,
+			"rightTorso": 80,
+			"leftArm": 64,
+			"rightArm": 64,
+			"leftLeg": 80,
+			"rightLeg": 80
+		}
+	},
+	{
+		"Name": "ON1-K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "ON1-M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "ON1-P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "ON1-V",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "ON1-VA",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "ON1-YAJ",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 46,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 92,
+			"leftTorso": 64,
+			"rightTorso": 64,
+			"leftArm": 48,
+			"rightArm": 48,
+			"leftLeg": 64,
+			"rightLeg": 64
+		}
+	},
+	{
+		"Name": "PNT-10P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "PNT-8Z",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "PNT-9R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "PNT-KK",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "PXH-1",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "PXH-1B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "PXH-1K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "PXH-1P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "PXH-2",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "PXH-3S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "PXH-KB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "PXH-KK",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "QKD-4G",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "QKD-4H",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "QKD-4P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "QKD-5A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "QKD-5K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "QKD-5P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "QKD-IV4",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "QKD-SC",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "RFL-3C",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "RFL-3N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "RFL-4D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "RFL-DB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "RFL-DNA",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "RFL-LK",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 21,
+			"leftLeg": 28,
+			"rightLeg": 28
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 80,
+			"leftTorso": 56,
+			"rightTorso": 56,
+			"leftArm": 40,
+			"rightArm": 42,
+			"leftLeg": 56,
+			"rightLeg": 56
+		}
+	},
+	{
+		"Name": "RVN-1X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "RVN-2X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "RVN-3L",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "RVN-4X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "RVN-H",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "SDR-5D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "SDR-5K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "SDR-5V",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "SDR-A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "SHD-1P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "SHD-2D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "SHD-2D2",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "SHD-2H",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "SHD-2K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "SHD-2P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "SHD-5M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "SHD-GD",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "STK-3F",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 41,
+			"rightTorso": 41,
+			"leftArm": 23,
+			"rightArm": 23,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 82,
+			"rightTorso": 82,
+			"leftArm": 46,
+			"rightArm": 46,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "STK-3FB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 41,
+			"rightTorso": 41,
+			"leftArm": 23,
+			"rightArm": 23,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 82,
+			"rightTorso": 82,
+			"leftArm": 46,
+			"rightArm": 46,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "STK-3H",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 41,
+			"rightTorso": 41,
+			"leftArm": 23,
+			"rightArm": 23,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 82,
+			"rightTorso": 82,
+			"leftArm": 46,
+			"rightArm": 46,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "STK-4N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 41,
+			"rightTorso": 41,
+			"leftArm": 23,
+			"rightArm": 23,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 82,
+			"rightTorso": 82,
+			"leftArm": 46,
+			"rightArm": 46,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "STK-M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 54,
+			"leftTorso": 41,
+			"rightTorso": 41,
+			"leftArm": 23,
+			"rightArm": 23,
+			"leftLeg": 36,
+			"rightLeg": 36
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 108,
+			"leftTorso": 82,
+			"rightTorso": 82,
+			"leftArm": 46,
+			"rightArm": 46,
+			"leftLeg": 72,
+			"rightLeg": 72
+		}
+	},
+	{
+		"Name": "TBT-3C",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "TBT-5J",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "TBT-5N",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "TBT-5P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "TBT-7K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "TBT-7M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "TBT-LG",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 32,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 16,
+			"rightArm": 16,
+			"leftLeg": 24,
+			"rightLeg": 24
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 64,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 32,
+			"rightArm": 32,
+			"leftLeg": 48,
+			"rightLeg": 48
+		}
+	},
+	{
+		"Name": "TDR-5S-T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "TDR-5S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "TDR-5SD",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "TDR-5SE",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "TDR-5SS",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "TDR-9SE",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 42,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 84,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 40,
+			"rightArm": 40,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "UM-K9",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "UM-R60",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "UM-R60L",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "UM-SC",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 20,
+			"leftTorso": 14,
+			"rightTorso": 14,
+			"leftArm": 10,
+			"rightArm": 10,
+			"leftLeg": 14,
+			"rightLeg": 14
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 40,
+			"leftTorso": 28,
+			"rightTorso": 28,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 28,
+			"rightLeg": 28
+		}
+	},
+	{
+		"Name": "VL-2P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "VL-2T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "VL-5T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "VL-BL",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 24,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 48,
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	{
+		"Name": "VND-1AA",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "VND-1P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "VND-1R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "VND-1SIB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "VND-1SIC",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "VND-1X",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 28,
+			"leftTorso": 22,
+			"rightTorso": 22,
+			"leftArm": 14,
+			"rightArm": 14,
+			"leftLeg": 22,
+			"rightLeg": 22
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 56,
+			"leftTorso": 44,
+			"rightTorso": 44,
+			"leftArm": 28,
+			"rightArm": 28,
+			"leftLeg": 44,
+			"rightLeg": 44
+		}
+	},
+	{
+		"Name": "VTR-9A1",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "VTR-9B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "VTR-9K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "VTR-9P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "VTR-9S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "VTR-BSK",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "VTR-DS",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "WHM-6D",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "WHM-6K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "WHM-6L",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "WHM-6R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "WHM-6RB",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "WHM-BW",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 44,
+			"leftTorso": 30,
+			"rightTorso": 30,
+			"leftArm": 22,
+			"rightArm": 22,
+			"leftLeg": 30,
+			"rightLeg": 30
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 88,
+			"leftTorso": 60,
+			"rightTorso": 60,
+			"leftArm": 44,
+			"rightArm": 44,
+			"leftLeg": 60,
+			"rightLeg": 60
+		}
+	},
+	{
+		"Name": "WLF-1",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "WLF-1A",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "WLF-1B",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "WLF-GR",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 22,
+			"leftTorso": 16,
+			"rightTorso": 16,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 16,
+			"rightLeg": 16
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 44,
+			"leftTorso": 32,
+			"rightTorso": 32,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 32,
+			"rightLeg": 32
+		}
+	},
+	{
+		"Name": "WVR-6K",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "WVR-6M",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "WVR-6P",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "WVR-6R",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "WVR-7H",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "WVR-Q",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 36,
+			"leftTorso": 26,
+			"rightTorso": 26,
+			"leftArm": 18,
+			"rightArm": 18,
+			"leftLeg": 26,
+			"rightLeg": 26
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 72,
+			"leftTorso": 52,
+			"rightTorso": 52,
+			"leftArm": 36,
+			"rightArm": 36,
+			"leftLeg": 52,
+			"rightLeg": 52
+		}
+	},
+	{
+		"Name": "ZEU-5S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "ZEU-5T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "ZEU-6S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "ZEU-6T",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "ZEU-9S",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	},
+	{
+		"Name": "ZEU-SK",
+		"MaxStructure":
+		{
+			"head": 15,
+			"centerTorso": 50,
+			"leftTorso": 34,
+			"rightTorso": 34,
+			"leftArm": 26,
+			"rightArm": 26,
+			"leftLeg": 34,
+			"rightLeg": 34
+		},
+		"MaxArmor":
+		{
+			"head": 30,
+			"centerTorso": 100,
+			"leftTorso": 68,
+			"rightTorso": 68,
+			"leftArm": 52,
+			"rightArm": 52,
+			"leftLeg": 68,
+			"rightLeg": 68
+		}
+	}
+]
